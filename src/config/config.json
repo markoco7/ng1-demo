@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "magnum357",
+    "database": "mydb",
+    "host": "database-2-instance-1.cglyyysql6wn.us-east-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "magnum357",
+    "database": "mydb",
+    "host": "database-2-instance-1.cglyyysql6wn.us-east-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "magnum357",
+    "database": "mydb",
+    "host": "database-2-instance-1.cglyyysql6wn.us-east-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  }
+}

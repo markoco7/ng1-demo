@@ -1,0 +1,14 @@
+
+# Prettier
+node_modules/
+# Modules
+**/*/node_modules/
+**/*/.nyc_output/
+**/*/coverage/
+
+# IntelliJ
+.idea
+
+# Serverless Framework
+**/*/.serverless/
+.DS_Store
